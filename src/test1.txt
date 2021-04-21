@@ -1,0 +1,59 @@
+Der Java Compiler
+
+a. (x)
+überprüft die Syntax von Java Programmen und zeigt Fehler an.
+b.
+ist nur zum Auffinden von Fehlern erforderlich. Ein JIT-Compiler (Just-in-time-Compiler) kann den Sourcecode direkt ohne den Zwischenschritt über den Bytecode interpretieren.
+c. (x)
+übersetzt Java Sourcecode in maschinenunabhängigen Bytecode
+d. (x)
+trägt den namen javac und ist Teil des JDK. javac wird beim Download des JDK mit ausgeliefert.
+e.
+überprüft zur Laufzeit die sichere Ausführung der Anweisungen.
+
+Eine Klasse legt fest ...
+a. (x)
+die Exemplarvariablen
+b.
+die Ergebniswerte/Ergebnisobjekte
+c. (x)
+die Exemplarmethoden
+d. (x)
+ob eine Methode von einer anderen Klasse aufgerufen werden darf
+e.
+die Exemplare der Klasse
+
+Was charakterisiert ein Objekt eindeutig?
+a. (x)
+ein Objekt hat einen Zustand.
+b. (x)
+Ein Objekt hat eine Identität.
+c.
+Ein Objekt hat Beziehungen.
+d.
+Ein Objekt hat Schlüsselattribute.
+e. (x)
+Ein Objekt hat ein Verhalten.
+
+Das Verhältnis von Klasse zu Objekt ist wie
+
+a.
+Vater und Sohn
+b.
+Auto und Rad
+c. (x)
+Möbelbauplan und Möbelstück
+d.
+Eis und Wasser
+e.
+Hund und Katze
+
+Klassenvariablen existieren nur einmal innerhalb der Klasse. Wie werden sie auch genannt?
+static
+
+//Kopieren Sie hier den Source Code Ihrer Methode hinein.
+//Bitte NICHT die gesamte Klasse Point.
+
+public boolean isOnXAxis(){
+    return this.y == 0;
+}
